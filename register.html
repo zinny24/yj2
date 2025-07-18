@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>회원가입</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #eee;
+            font-family: "Noto Sans KR", sans-serif;
+        }
+
+        .wrap {
+            display: flex;
+            justify-content: center;
+            height: 100vh;
+            align-items: center;
+        }
+
+        .register-box {
+            width: 380px;
+            background-color: #fff;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 25px;
+        }
+
+        .userid, .email, .passwd, .repasswd, .addr1, .addr2 {
+            width:100%;
+            margin-bottom: 15px;
+            padding: 12px;
+            border: 1px solid #ccc;
+        }
+
+        .userid:focus, .email:focus, .passwd:focus, .repasswd:focus, 
+        .addr1:focus, .addr2:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+
+        input[type="submit"] {
+            background-color: #00796b;
+            color: #fff;
+            width: 100%;
+            border:0;
+            padding: 12px;
+        }
+
+        .user-type {
+            text-align: left;
+        }
+
+        .user-type label {
+            font-size: 14px;
+            color: #333;
+            margin-right: 20px;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #004d40;
+            transition: 0.5s;
+            cursor: pointer;
+        }
+
+        .addr-wrap {
+            display: flex;
+            gap: 5px;
+            margin: 20px 0;
+        }
+
+        .zipcode {
+            flex: 2;
+            padding: 12px;       
+            border: 1px solid #ccc;     
+        }
+
+        .zipcode:focus {
+            outline: none;
+            border-color: #4CAF50;
+        }
+
+        button {
+            flex: 1;
+            background-color: #00796b;
+            color: #fff;
+            cursor: pointer;
+            border:0;
+        }
+
+        footer {
+            margin-top: 15px;
+            font-size: 14px;            
+        }
+
+        footer a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+
+        <div class="register-box">
+            <h2>회원가입</h2>            
+            <form action="#" method="post">
+
+                <input type="text" class="userid" name="userid" placeholder="아이디" required>
+                <input type="text" class="email" name="email" placeholder="이메일" required>
+                <input type="text" class="passwd" name="passwd" placeholder="비밀번호" required>
+                <input type="text" class="repasswd" placeholder="비밀번호 확인" required>
+
+                <div class="user-type">
+                    <label>
+                        <input type="radio" name="userType" value="직원" checked> 직원
+                    </label>
+                    <label>
+                        <input type="radio" name="userType" value="협력사"> 협력사
+                    </label>
+                    <label>
+                        <input type="radio" name="userType" value="손님"> 손님
+                    </label>
+                </div>
+
+                <div class="addr-wrap">
+                    <input type="text" 
+                    placeholder="우편번호" 
+                    name="zipcode" readonly class="zipcode">
+
+                    <button type="button">우편번호 찾기</button>
+                </div>
+
+                <input type="text" class="addr1" name="addr1" placeholder="주소">
+                <input type="text" class="addr2" name="addr2" placeholder="상세주소">
+
+                <input type="submit" value="회원가입">
+
+            </form>
+
+            <footer>
+                <a href="#">로그인</a> | <a href="#">메인으로</a>
+            </footer>
+        </div>
+
+    </div>
+</body>
+</html>
