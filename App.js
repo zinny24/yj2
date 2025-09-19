@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import './App.css'; // ✅ CSS 파일 불러오기
+import './App.css';
 
 function App() {
   const [username, setUsername] = useState('');
