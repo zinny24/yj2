@@ -1,0 +1,101 @@
+event_id,title,region,category,start_date,end_date,location,lat,lon,organizer,url,target_age,target_gender,tags,img
+E001,서울 봄꽃축제,서울특별시,축제,2025-04-05,2025-04-07,여의도공원,37.526,126.933,서울시,https://festival.seoul.go.kr,전체,전체,"봄,꽃,가족",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E002,서울 국제음악회,서울특별시,공연,2025-05-12,2025-05-14,세종문화회관,37.572,126.976,서울문화재단,https://seoulmusic.or.kr,전체,전체,"클래식,콘서트",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E003,부산 불빛축제,부산광역시,축제,2025-10-10,2025-10-13,광안리해수욕장,35.153,129.118,부산시,https://busanlight.kr,전체,전체,"야경,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E004,부산 수제맥주페스티벌,부산광역시,체험,2025-06-20,2025-06-22,벡스코,35.168,129.136,부산관광공사,https://busanbeer.kr,20대~,남,"맥주,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E005,대구 치맥페스티벌,대구광역시,축제,2025-07-10,2025-07-14,두류공원,35.857,128.562,대구시,https://chimacfestival.com,전체,전체,"치킨,맥주,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E006,대구 과학축전,대구광역시,과학,2025-09-05,2025-09-07,엑스코,35.894,128.611,대구과학관,https://daegu.go.kr,학생,전체,"과학,체험"
+E007,광주 비엔날레,광주광역시,전시,2025-09-10,2025-11-30,광주비엔날레관,35.156,126.857,광주비엔날레재단,https://gwangjubiennale.org,전체,전체,"미술,전시",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E008,광주 거리공연축제,광주광역시,공연,2025-05-18,2025-05-19,국립아시아문화전당,35.146,126.919,광주문화재단,https://gwangju.or.kr,전체,전체,"공연,거리",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E009,인천 펜타포트 락페스티벌,인천광역시,공연,2025-08-09,2025-08-11,송도달빛축제공원,37.392,126.637,인천관광공사,https://pentaport.co.kr,청년,전체,"락,페스티벌",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E010,인천 해양문화축제,인천광역시,문화,2025-07-01,2025-07-03,월미문화의거리,37.472,126.605,인천시,https://incheon.go.kr,전체,전체,"바다,문화,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E011,대전 사이언스페스티벌,대전광역시,과학,2025-10-03,2025-10-06,엑스포과학공원,36.374,127.384,대전시,https://sciencefestival.kr,학생,전체,"과학,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E012,대전 별빛영화제,대전광역시,문화,2025-09-01,2025-09-03,보라매공원,36.337,127.429,대전문화재단,https://daejeon.or.kr,전체,전체,"영화,문화,밤",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E013,세종 책축제,세종특별자치시,문화,2025-09-14,2025-09-16,세종호수공원,36.480,127.289,세종시,https://sejongbook.or.kr,전체,전체,"독서,문화,가족",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E014,세종 어린이과학체험전,세종특별자치시,체험,2025-05-20,2025-05-22,세종컨벤션센터,36.480,127.265,세종교육청,https://sejong.go.kr,어린이,전체,"과학,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E015,수원 화성문화제,경기도 수원시,문화,2025-10-04,2025-10-08,화성행궁광장,37.283,127.013,수원시,https://hsfestival.suwon.go.kr,전체,전체,"역사,문화,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E016,수원 청소년음악회,경기도 수원시,공연,2025-06-10,2025-06-12,경기아트센터,37.275,127.018,경기도문화재단,https://ggac.or.kr,청소년,전체,"음악,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E017,고양 꽃박람회,경기도 고양시,전시,2025-04-26,2025-05-01,일산호수공원,37.657,126.769,고양시,https://flower.or.kr,전체,전체,"꽃,전시,봄",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E018,고양 거리예술축제,경기도 고양시,공연,2025-09-26,2025-09-29,고양문화광장,37.656,126.837,고양문화재단,https://artfestival.kr,전체,전체,"거리,예술,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E019,성남 e스포츠페스티벌,경기도 성남시,체험,2025-08-20,2025-08-22,성남아트센터,37.420,127.126,성남시,https://esports.seongnam.kr,청소년,남,"게임,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E020,성남 연극제,경기도 성남시,공연,2025-05-15,2025-05-17,성남시청광장,37.423,127.128,성남문화재단,https://snart.or.kr,전체,전체,"연극,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E021,춘천 마임축제,강원특별자치도 춘천시,공연,2025-06-01,2025-06-07,춘천시청광장,37.881,127.730,춘천시,https://mimefestival.com,전체,전체,"마임,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E022,강릉 단오제,강원특별자치도 강릉시,전통,2025-06-03,2025-06-10,남대천일대,37.755,128.896,강릉시,https://dano.or.kr,전체,전체,"전통,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E023,평창 대관령음악제,강원특별자치도 평창군,공연,2025-07-24,2025-08-10,알펜시아콘서트홀,37.667,128.707,평창문화재단,https://mpy.or.kr,전체,전체,"클래식,음악",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E024,속초 설악문화제,강원특별자치도 속초시,문화,2025-10-03,2025-10-06,속초시청광장,38.207,128.591,속초시,https://sokchofestival.or.kr,전체,전체,"문화,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E025,원주 미로예술시장,강원특별자치도 원주시,문화,2025-05-10,2025-05-12,중앙시장거리,37.344,127.929,원주시,https://wonju.go.kr,전체,전체,"예술,시장",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E026,전주 한옥마을축제,전라북도 전주시,문화,2025-05-03,2025-05-07,전주한옥마을,35.815,127.150,전주시,https://jeonju.go.kr,전체,전체,"한옥,문화,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E027,익산 보석축제,전라북도 익산시,축제,2025-10-01,2025-10-04,보석박물관,35.966,127.001,익산시,https://iksan.go.kr,전체,전체,"보석,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E028,군산 영화제,전라북도 군산시,문화,2025-09-10,2025-09-13,군산예술의전당,35.968,126.736,군산시,https://gunsanfilm.kr,전체,전체,"영화,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E029,남원 국악의밤,전라북도 남원시,공연,2025-07-12,2025-07-14,춘향테마파크,35.411,127.388,남원시,https://namwon.go.kr,전체,전체,"국악,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E030,전주 국제영화제,전라북도 전주시,문화,2025-05-02,2025-05-11,객리단길일대,35.819,127.145,전주시,https://jiff.or.kr,전체,전체,"영화,국제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E031,목포 해상케이블카축제,전라남도 목포시,체험,2025-09-18,2025-09-21,목포북항일대,34.806,126.392,목포시,https://mokpo.go.kr,전체,전체,"체험,케이블카",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E032,여수 밤바다불빛축제,전라남도 여수시,축제,2025-08-15,2025-08-17,이순신광장,34.740,127.740,여수시,https://yeosufestival.kr,전체,전체,"야경,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E033,순천 정원박람회,전라남도 순천시,전시,2025-04-10,2025-04-20,순천만국가정원,34.950,127.486,순천시,https://gardenexpo.or.kr,전체,전체,"정원,전시",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E034,보성 녹차대축제,전라남도 보성군,축제,2025-05-03,2025-05-07,보성녹차밭,34.777,127.090,보성군,https://boseong.go.kr,전체,전체,"녹차,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E035,강진 청자축제,전라남도 강진군,전통,2025-07-25,2025-07-28,강진청자박물관,34.644,126.772,강진군,https://gangjin.go.kr,전체,전체,"청자,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E036,창원 로봇문화축제,경상남도 창원시,과학,2025-05-10,2025-05-13,창원컨벤션센터,35.228,128.681,창원시,https://changwon.go.kr,학생,전체,"로봇,과학",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E037,김해 가야문화축제,경상남도 김해시,전통,2025-04-10,2025-04-14,수로왕릉일원,35.234,128.890,김해시,https://gaya.or.kr,전체,전체,"가야,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E038,진주 남강유등축제,경상남도 진주시,축제,2025-10-01,2025-10-12,남강일원,35.194,128.083,진주시,https://yudeung.or.kr,전체,전체,"유등,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E039,통영 국제음악제,경상남도 통영시,공연,2025-03-28,2025-04-06,통영국제음악당,34.833,128.429,통영국제음악재단,https://timf.org,전체,전체,"클래식,음악",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E040,포항 불빛축제,경상북도 포항시,축제,2025-07-26,2025-07-28,영일대해수욕장,36.045,129.365,포항시,https://pofestival.kr,전체,전체,"야경,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E041,경주 세계문화엑스포,경상북도 경주시,문화,2025-09-10,2025-09-25,보문단지,35.844,129.288,경주시,https://gyeongju.go.kr,전체,전체,"문화,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E042,안동 국제탈춤페스티벌,경상북도 안동시,전통,2025-09-27,2025-10-06,탈춤공원,36.564,128.729,안동시,https://maskdance.com,전체,전체,"탈춤,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E043,문경 찻사발축제,경상북도 문경시,전통,2025-05-03,2025-05-07,문경새재도립공원,36.700,128.085,문경시,https://munkyung.go.kr,전체,전체,"찻사발,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E044,울산 고래축제,울산광역시,축제,2025-05-22,2025-05-26,장생포고래문화마을,35.496,129.384,울산시,https://ulsanwhale.com,전체,전체,"고래,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E045,울산 산업문화제,울산광역시,과학,2025-11-01,2025-11-03,울산대공원,35.541,129.335,울산시,https://ulsan.go.kr,전체,전체,"산업,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E046,제주 감귤축제,제주특별자치도,체험,2025-11-15,2025-11-20,서귀포감귤박물관,33.254,126.559,서귀포시,https://jeju.or.kr,전체,전체,"감귤,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E047,제주 해녀문화전,제주특별자치도,전시,2025-06-05,2025-06-10,제주해녀박물관,33.530,126.765,제주시,https://jejuculture.kr,전체,전체,"해녀,전시",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E048,제주 푸드페스티벌,제주특별자치도,축제,2025-09-20,2025-09-25,중문관광단지,33.250,126.410,제주관광공사,https://jejufood.kr,전체,전체,"푸드,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E049,충주 세계무술축제,충청북도 충주시,전통,2025-09-25,2025-09-29,무술공원,37.005,127.926,충주시,https://chungju.go.kr,전체,전체,"무술,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E050,청주 직지문화제,충청북도 청주시,문화,2025-10-08,2025-10-11,청주고인쇄박물관,36.642,127.490,청주시,https://cheongju.go.kr,전체,전체,"직지,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E051,제천 음악영화제,충청북도 제천시,공연,2025-08-08,2025-08-12,제천시문화회관,37.132,128.189,제천시,https://jiff.or.kr,전체,전체,"영화,음악",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E052,충주 호수축제,충청북도 충주시,축제,2025-07-01,2025-07-05,탄금호,37.010,127.929,충주시,https://chungju.or.kr,전체,전체,"호수,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E053,천안 흥타령춤축제,충청남도 천안시,공연,2025-09-27,2025-10-01,삼거리공원,36.817,127.157,천안시,https://cheonanfestival.kr,전체,전체,"춤,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E054,공주 석장리문화제,충청남도 공주시,전통,2025-05-02,2025-05-05,석장리박물관,36.465,127.123,공주시,https://gongju.go.kr,전체,전체,"석장리,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E055,보령 머드축제,충청남도 보령시,체험,2025-07-19,2025-07-28,대천해수욕장,36.309,126.509,보령시,https://mudfestival.or.kr,전체,전체,"머드,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E056,서산 해미읍성축제,충청남도 서산시,전통,2025-10-04,2025-10-06,해미읍성,36.712,126.551,서산시,https://seosan.go.kr,전체,전체,"해미읍성,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E057,논산 딸기축제,충청남도 논산시,체험,2025-03-28,2025-03-31,논산시민공원,36.183,127.101,논산시,https://nonsan.go.kr,전체,전체,"딸기,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E058,진천 농다리축제,충청북도 진천군,전통,2025-06-01,2025-06-04,농다리일원,36.858,127.445,진천군,https://jincheon.go.kr,전체,전체,"농다리,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E059,홍성 한우축제,충청남도 홍성군,체험,2025-10-10,2025-10-13,홍성읍내광장,36.601,126.665,홍성군,https://hongseong.go.kr,전체,전체,"한우,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E060,보은 대추축제,충청북도 보은군,축제,2025-10-17,2025-10-20,보은읍문화광장,36.487,127.731,보은군,https://boeun.go.kr,전체,전체,"대추,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E061,김천 포도축제,경상북도 김천시,체험,2025-09-01,2025-09-03,김천체육공원,36.139,128.113,김천시,https://gimcheon.go.kr,전체,전체,"포도,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E062,상주 자전거축제,경상북도 상주시,체험,2025-05-25,2025-05-28,상주자전거박물관,36.417,128.158,상주시,https://sangju.go.kr,전체,전체,"자전거,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E063,영주 풍기인삼축제,경상북도 영주시,축제,2025-10-05,2025-10-09,풍기인삼시장,36.625,128.532,영주시,https://yeongju.go.kr,전체,전체,"인삼,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E064,구미 금오산벚꽃축제,경상북도 구미시,축제,2025-04-10,2025-04-12,금오산도립공원,36.132,128.332,구미시,https://gumi.go.kr,전체,전체,"벚꽃,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E065,영천 별빛축제,경상북도 영천시,문화,2025-10-20,2025-10-23,영천댐수변공원,35.978,128.940,영천시,https://yeongcheon.go.kr,전체,전체,"야경,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E066,의성 마늘축제,경상북도 의성군,체험,2025-07-15,2025-07-18,의성마늘테마공원,36.351,128.694,의성군,https://uiseong.go.kr,전체,전체,"마늘,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E067,청송 사과축제,경상북도 청송군,체험,2025-10-18,2025-10-22,청송읍문화공원,36.434,129.058,청송군,https://cheongsong.go.kr,전체,전체,"사과,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E068,봉화 송이축제,경상북도 봉화군,체험,2025-09-28,2025-10-02,봉화송이공원,36.892,128.732,봉화군,https://bonghwa.go.kr,전체,전체,"송이,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E069,영덕 대게축제,경상북도 영덕군,축제,2025-03-20,2025-03-23,강구항일대,36.356,129.382,영덕군,https://yeongdeok.go.kr,전체,전체,"대게,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E070,거제 바다로세계로,경상남도 거제시,축제,2025-08-01,2025-08-04,거제해변공원,34.870,128.626,거제시,https://geoje.go.kr,전체,전체,"바다,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E071,밀양 아리랑대축제,경상남도 밀양시,전통,2025-05-16,2025-05-19,밀양강둔치,35.491,128.749,밀양시,https://miryang.go.kr,전체,전체,"아리랑,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E072,사천 항공우주엑스포,경상남도 사천시,과학,2025-10-24,2025-10-27,사천공항일대,35.092,128.083,사천시,https://sacheon.go.kr,전체,전체,"항공,과학",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E073,함양 산삼축제,경상남도 함양군,체험,2025-09-06,2025-09-10,상림공원,35.518,127.727,함양군,https://hamyang.go.kr,전체,전체,"산삼,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E074,거창 연극제,경상남도 거창군,공연,2025-08-03,2025-08-10,거창문화센터,35.686,127.907,거창군,https://geochang.go.kr,전체,전체,"연극,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E075,하동 녹차축제,경상남도 하동군,축제,2025-05-03,2025-05-07,화개면차문화공원,35.067,127.737,하동군,https://hadong.go.kr,전체,전체,"녹차,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E076,남해 독일마을맥주축제,경상남도 남해군,체험,2025-10-11,2025-10-13,독일마을,34.835,128.059,남해군,https://namhae.go.kr,전체,전체,"맥주,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E077,진해 군항제,경상남도 창원시 진해구,축제,2025-04-01,2025-04-10,여좌천,35.151,128.659,창원시,https://jinhae.go.kr,전체,전체,"벚꽃,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E078,고성 공룡엑스포,경상남도 고성군,과학,2025-07-20,2025-07-25,당항포관광지,34.969,128.321,고성군,https://dino.go.kr,전체,전체,"공룡,과학",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E079,제주 유채꽃축제,제주특별자치도,축제,2025-04-05,2025-04-09,세화리일대,33.464,126.908,제주시,https://jeju.go.kr,전체,전체,"유채꽃,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E080,제주 국제사진전,제주특별자치도,전시,2025-09-12,2025-09-16,탐라문화광장,33.502,126.528,제주관광공사,https://jejuphoto.kr,전체,전체,"사진,전시",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E081,제주 겨울바다음악회,제주특별자치도,공연,2025-12-14,2025-12-16,이호해변공원,33.497,126.464,제주시,https://jejufestival.kr,전체,전체,"음악회,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E082,충주 세계무술축제,충청북도 충주시,전통,2025-09-25,2025-09-29,무술공원,37.005,127.926,충주시,https://chungju.go.kr,전체,전체,"무술,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E083,제천 음악영화제,충청북도 제천시,공연,2025-08-08,2025-08-12,제천문화회관,37.132,128.189,제천시,https://jiff.or.kr,전체,전체,"음악,영화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E084,청주 직지문화제,충청북도 청주시,문화,2025-10-08,2025-10-11,고인쇄박물관,36.642,127.490,청주시,https://cheongju.go.kr,전체,전체,"직지,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E085,보은 대추축제,충청북도 보은군,축제,2025-10-17,2025-10-20,보은읍문화광장,36.487,127.731,보은군,https://boeun.go.kr,전체,전체,"대추,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E086,음성 청결고추축제,충청북도 음성군,체험,2025-09-10,2025-09-13,음성체육공원,36.940,127.690,음성군,https://eumseong.go.kr,전체,전체,"고추,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E087,홍성 한우축제,충청남도 홍성군,체험,2025-10-10,2025-10-13,홍성읍내광장,36.601,126.665,홍성군,https://hongseong.go.kr,전체,전체,"한우,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E088,보령 머드축제,충청남도 보령시,체험,2025-07-19,2025-07-28,대천해수욕장,36.309,126.509,보령시,https://mudfestival.or.kr,전체,전체,"머드,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E089,공주 석장리문화제,충청남도 공주시,전통,2025-05-02,2025-05-05,석장리박물관,36.465,127.123,공주시,https://gongju.go.kr,전체,전체,"석장리,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E090,천안 흥타령춤축제,충청남도 천안시,공연,2025-09-27,2025-10-01,삼거리공원,36.817,127.157,천안시,https://cheonanfestival.kr,전체,전체,"춤,공연",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E091,서산 해미읍성축제,충청남도 서산시,전통,2025-10-04,2025-10-06,해미읍성,36.712,126.551,서산시,https://seosan.go.kr,전체,전체,"해미읍성,전통",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E092,논산 딸기축제,충청남도 논산시,체험,2025-03-28,2025-03-31,논산시민공원,36.183,127.101,논산시,https://nonsan.go.kr,전체,전체,"딸기,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E093,대전 사이언스페스티벌,대전광역시,과학,2025-10-03,2025-10-06,엑스포과학공원,36.374,127.384,대전시,https://sciencefestival.kr,학생,전체,"과학,체험",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E094,대전 별빛영화제,대전광역시,문화,2025-09-01,2025-09-03,보라매공원,36.337,127.429,대전문화재단,https://daejeon.or.kr,전체,전체,"영화,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E095,세종 책축제,세종특별자치시,문화,2025-09-14,2025-09-16,세종호수공원,36.480,127.289,세종시,https://sejongbook.or.kr,전체,전체,"책,문화",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E096,세종 어린이과학체험전,세종특별자치시,체험,2025-05-20,2025-05-22,세종컨벤션센터,36.480,127.265,세종교육청,https://sejong.go.kr,어린이,전체,"과학,,https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL체험"
+E097,서울 국제영화제,서울특별시,문화,2025-11-01,2025-11-07,코엑스,37.511,127.059,서울영상위원회,https://seoulfilm.or.kr,전체,전체,"영화,국제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E098,서울 겨울빛축제,서울특별시,축제,2025-12-10,2025-12-25,서울광장,37.566,126.978,서울시,https://seoullight.kr,전체,전체,"조명,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E099,부산 국제영화제,부산광역시,문화,2025-10-02,2025-10-11,영화의전당,35.166,129.136,부산영상위원회,https://biff.kr,전체,전체,"영화,국제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
+E100,제주 해돋이축제,제주특별자치도,축제,2025-12-31,2026-01-01,성산일출봉,33.459,126.941,서귀포시,https://jeju.or.kr,전체,전체,"해돋이,축제",https://www.visitbusan.net/uploadImgs/files/cntnts/20210429111644090_thumbL
